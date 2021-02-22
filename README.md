@@ -1,7 +1,7 @@
 ### Hi there, My Name Is Lawrence Baatjies 👋👋.
 
 <!--
-**LawrenceBaatjies/LawrenceBaatjies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LawrenceBaatjies/LawrenceBaatjies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -93,7 +93,7 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [website]: "Still-Pending"
 [course]:  https://www.freecodecamp.org/jackwebber47
@@ -101,3 +101,5 @@
 [twitter]: https://twitter.com/Jackweb20299323
 [youtube]: https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ
 [linkedin]:https://www.linkedin.com/in/lawrence-baatjies-a13904192/
+
+</details>
