@@ -1,8 +1,8 @@
-<h2>### Hi there, I'm Lawrence Baatjies 👋👋. <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkrman009%2FOctodex-Images-Links%2Fblob%2Fmaster%2FREADME.md&psig=AOvVaw3JGHwWXpxPRWtjvTZGL7ej&ust=1616277250895000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD0w5isve8CFQAAAAAdAAAAABAI
+<h2>### Hi there, I'm Lawrence Baatjies 👋👋. <img src="https://i.pinimg.com/originals/2b/a2/43/2ba24339050547c296c33a9ca3207548.gif"
 " width="50" target="_blank">
 </h2>
 
-<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F160722280430705470%2F&psig=AOvVaw0Jm9l33wExAhe6WaFk6aj_&ust=1616278035105000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODS5pWvve8CFQAAAAAdAAAAABBe" width="230" target="_blank">
+<img align='right' src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="230" target="_blank">
 <!--
 **LawrenceBaatjies/LawrenceBaatjies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
