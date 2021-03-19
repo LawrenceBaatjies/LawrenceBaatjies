@@ -1,5 +1,8 @@
-### Hi there, My Name Is Lawrence Baatjies 👋👋.
+<h2>### Hi there, I'm Lawrence Baatjies 👋👋. <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkrman009%2FOctodex-Images-Links%2Fblob%2Fmaster%2FREADME.md&psig=AOvVaw3JGHwWXpxPRWtjvTZGL7ej&ust=1616277250895000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD0w5isve8CFQAAAAAdAAAAABAI
+" width="50" target="_blank">
+</h2>
 
+<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F160722280430705470%2F&psig=AOvVaw0Jm9l33wExAhe6WaFk6aj_&ust=1616278035105000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODS5pWvve8CFQAAAAAdAAAAABBe" width="230" target="_blank">
 <!--
 **LawrenceBaatjies/LawrenceBaatjies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -7,10 +10,10 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Husband, Father, Developer, and Student!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][JavaScript]!
-- 🌱 I’m currently learning {JavaScript Core-2}.
+- 🌱 I’m currently learning {JavaScript Core-3}.
 - 👯 I’m looking to collaborate with other Student.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Tattoo and play video games.
