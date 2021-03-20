@@ -11,18 +11,18 @@
 [![Github Follow](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-- 
+  
 
- <h3>I'm a Husband, Super-Dad, A Student Aspiring to become a Developer!!🇿🇦</h3>
- - <br />
+ <h3>I'm a Husband,Father,A Student Aspiring to become a Developer!!🇿🇦</h3>
+<br />
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][JavaScript]!
 - 🌱 I’m currently learning {JavaScript Core-3}.
 - 👥 I’m looking to collaborate with other Student.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✨ Fun fact: I love to Tattoo and play video games.
-- 
-- <br />
+  
+<br />
 
 ### Spotify Playing 🎧
 
