@@ -106,6 +106,7 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github.com/LawrenceBaatjies/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LawrenceBaatjies=anuraghazra&theme=chartreuse-dark_icons=true)
 
 
 [website]: "Still-Pending"
