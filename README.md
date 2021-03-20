@@ -13,12 +13,12 @@
 
 
 
-## <h3>I'm a Husband, Super-Dad, A Student Aspiring to become a Developer!!</h3>
+ <h3>I'm a Husband, Super-Dad, A Student Aspiring to become a Developer!!</h3>
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][JavaScript]!
 - 🌱 I’m currently learning {JavaScript Core-3}.
 - 👯 I’m looking to collaborate with other Student.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to Tattoo and play video games.
 - 
 - <br />
@@ -27,7 +27,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="lawrence Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-<br />
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="21px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
