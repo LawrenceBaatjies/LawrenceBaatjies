@@ -8,9 +8,11 @@
 
 <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=6055a6f8b655eb001279369a&product=inline-follow-buttons" async="async"></script>****
+[![Github Follow](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<LawrenceBaatjies>&theme=<THEME_NAME>" />
+
+
 ## I'm a Husband, Father, Developer, and Student!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][JavaScript]!
