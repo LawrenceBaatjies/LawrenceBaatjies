@@ -8,8 +8,8 @@
 
 <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
 
-![Twitter Follow](https://twitter.com/Jackweb20299323)
-![GitHub followers](https://github.com/LawrenceBaatjies)
+![Twitter Follow](https://img.shields.io/twitter/follow/CrazyteddyX?label=Follow)
+![GitHub followers](https://img.shields.io/github/followers/Lawrence-Baatjies?label=Follow&style=social)
 ## I'm a Husband, Father, Developer, and Student!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][JavaScript]!
