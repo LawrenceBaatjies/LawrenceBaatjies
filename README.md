@@ -31,7 +31,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="21px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="codeSTACKr | YouTube" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -76,7 +76,9 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
+
 <br />
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -89,6 +91,7 @@
 
 ➡️ [more blog posts...](https://codestackr.com)
 <br />
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
@@ -104,9 +107,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github.com/LawrenceBaatjies/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github.com/LawrenceBaatjies/api?username=LawrenceBaatjiesicons=true&hide_border=true" />
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LawrenceBaatjies=anuraghazra&theme=chartreuse-dark_icons=true)
+<!-- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LawrenceBaatjies=anuraghazra&theme=chartreuse-dark_icons=true) -->
 
 
 [website]: "Still-Pending"
@@ -117,4 +120,5 @@
 [linkedin]:https://www.linkedin.com/in/lawrence-baatjies-a13904192/
 
 </details>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&show_icons=true)
