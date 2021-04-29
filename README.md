@@ -8,8 +8,8 @@
 
 <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
 
-!Github Follow(https://img.shields.io/https://github.com/LawrenceBaatjies&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)(https://codestackr.com) 
-!Twitter Follow (https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)(https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Github Follow](https://img.shields.io/https://github.com/LawrenceBaatjies&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
   
 
