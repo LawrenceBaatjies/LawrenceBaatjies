@@ -31,6 +31,7 @@
 
 ### Connect with me:
 
+(Pending...)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -55,7 +56,7 @@
 
 
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos:
 
 <!-- YOUTUBE:AUTO-START -->
 - [Top VS Code Updates | v1.53 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=vTf_KPsD0pQ)
@@ -83,6 +84,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
@@ -91,18 +93,17 @@
 
 > 🏆 235 Contributions in the Year 2021 
  > 
-> 📜 31 Public Repositories
+> 📜 32 Public Repositories
  > 
-> 🔑 2 Private Repositories 
+> 🔑 1 Private Repositories 
 
-**I'm a Night 🦉** 
-
-**Programming Language Profefficiency**
+**Programming Language Proficiency**
 ```text
-Python       ███████████████████░░░░░░  
-Java         █████████████████████░░░░   
-JavaScript   ███████████████████░░░░░░ 
-C            ████████░░░░░░░░░░░░░░░░░ 
+HTML         ███████████████████████░░░░░░  
+CSS          █████████████████████░░░░   
+JavaScript   █████████████████░░░░░ 
+React        ████████░░░░░░░░░░░░░░░░░ 
+JQuery       █████░░░░░░ 
 ```
 
 
