@@ -17,7 +17,7 @@
 <br />
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][JavaScript]!
-- 🌱 I’m currently learning {JavaScript Core-3}.
+- 🌱 I’m currently learning {JavaScript Core-3-Week-3}.
 - 👥 I’m looking to collaborate with other Student.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✨ Fun fact: I love to Tattoo and play video games.
