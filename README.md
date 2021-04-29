@@ -8,7 +8,7 @@
 
 <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
 
-[![Github Follow]()https://github.com/LawrenceBaatjies](https://codestackr.com) 
+[![Github Follow](https://img.shields.io/https://github.com/LawrenceBaatjies&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
   
@@ -120,4 +120,34 @@
 [linkedin]:https://www.linkedin.com/in/lawrence-baatjies-a13904192/
 
 </details>
+<script>
 
+const { clampValue } = require("../common/utils");
+
+const createProgressNode = ({
+  x,
+  y,
+  width,
+  color,
+  progress,
+  progressBarBackgroundColor,
+}) => {
+  const progressPercentage = clampValue(progress, 2, 100);
+
+  return `
+    <svg width="${width}" x="${x}" y="${y}">
+      <rect rx="5" ry="5" x="0" y="0" width="${width}" height="8" fill="${progressBarBackgroundColor}"></rect>
+      <rect
+          height="8"
+          fill="${color}"
+          rx="5" ry="5" x="0" y="0" 
+          data-testid="lang-progress"
+          width="${progressPercentage}%"
+      >
+      </rect>
+    </svg>
+  `;
+};
+
+exports.createProgressNode = createProgressNode;
+</script>
