@@ -32,10 +32,11 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | YouTube" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
+
+
 <br/>
 
 ### Languages and Tools:
@@ -68,19 +69,6 @@
 
 <br />
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-<br />
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
@@ -96,10 +84,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github.com/LawrenceBaatjies/api?username=LawrenceBaatjiesicons=true&hide_border=true" />
+  <img align="left" alt="GitHub Stats" src="https://github.com/LawrenceBaatjies/api?username=LawrenceBaatjiesicons=true&hide_border=true" />
+**🐱 My Github Data** 
 
-
-
+> 🏆 235 Contributions in the Year 2021 
+ > 
+> 📜 25 Public Repositories
+ > 
+> 🔑 2 Private Repositories 
 
 [website]: "Still-Pending"
 [course]:  https://www.freecodecamp.org/jackwebber47
