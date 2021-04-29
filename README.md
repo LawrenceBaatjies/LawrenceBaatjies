@@ -83,15 +83,29 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-  <img align="left" alt="GitHub Stats" src="https://github.com/LawrenceBaatjies/api?username=LawrenceBaatjiesicons=true&hide_border=true" />
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
+
 **🐱 My Github Data** 
 
 > 🏆 235 Contributions in the Year 2021 
  > 
-> 📜 25 Public Repositories
+> 📜 31 Public Repositories
  > 
 > 🔑 2 Private Repositories 
+
+**I'm a Night 🦉** 
+
+**Programming Language Profefficiency**
+```text
+Python       ███████████████████░░░░░░  
+Java         █████████████████████░░░░   
+JavaScript   ███████████████████░░░░░░ 
+C            ████████░░░░░░░░░░░░░░░░░ 
+```
+
+
 
 [website]: "Still-Pending"
 [course]:  https://www.freecodecamp.org/jackwebber47
