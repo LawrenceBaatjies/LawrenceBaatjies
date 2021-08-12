@@ -57,7 +57,7 @@
 <br/>
 ### Connect with me:
 
-[![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)](mailto:lawrencebaatjies47@gmail.com)
+Email: [![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)](mailto:lawrencebaatjies47@gmail.com)
 
 <br/>
 ### Languages and Tools:
