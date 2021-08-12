@@ -47,11 +47,10 @@
  ###Want to Help Support My learing Develpoment?
  ### If(True = Buy Me A Coffee☕)
  
- <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
+ <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="100" ></a>
  
+<hr />
  
-
- <hr />
 ### Spotify Music Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="lawrence Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
