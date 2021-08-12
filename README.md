@@ -1,4 +1,4 @@
-<h3> <img src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif"width="90" target="_blank"> ⚛️### Hi there, I'm Lawrence Baatjies .###⚛️ <img src="https://i.pinimg.com/originals/2b/a2/43/2ba24339050547c296c33a9ca3207548.gif"
+<h3> <img src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif"width="90" target="_blank"> ⚛️ Hi there, I'm Lawrence ⚛️ <img src="https://i.pinimg.com/originals/2b/a2/43/2ba24339050547c296c33a9ca3207548.gif"
 " width="70" target="_blank">
 </h3>
 <hr />
@@ -14,8 +14,8 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...  
- <h3>I'm a Husband,Father,A Student Aspiring to become a Developer!!🇿🇦</h3>
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...  
+ <h3>I'm a Husband, Father, A Student Aspiring to become a Full Stack Web Developer!</h3>
 <br />
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][JavaScript]!
@@ -44,7 +44,7 @@
  <br />
  <hr />
  
- ### Want to Help Support My learing Develpoment?
+ ### Want to Help Support My learing Develpoment? 👉👈
  ### If(True = Buy Me A Coffee☕)👇(cleck Button)👇
  
  <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
@@ -60,9 +60,6 @@
 
 (Pending...)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 <br/>
 ### Languages and Tools:
 
@@ -118,14 +115,14 @@ JQuery       █████░░░░░░
  <hr />
 ![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
  
-📱### Contact 🔝
+📱### Contact Me 🔝
 
-[website]: "Still-Pending"
-[course]:  (https://www.freecodecamp.org/jackwebber47)
-[course]:  (https://codepen.io/jackwebber47)
-[twitter]: (https://twitter.com/Jackweb20299323)
-[youtube]: (https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ)
-[linkedin]:(https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
+[Website]: ("Still-Pending")
+[Course]:  (https://www.freecodecamp.org/jackwebber47)
+[Course]:  (https://codepen.io/jackwebber47)
+[Twitter]: (https://twitter.com/Jackweb20299323)
+[Youtube]: (https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ)
+[Linkedin]:(https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
 
 </details>
 
