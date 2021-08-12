@@ -53,7 +53,7 @@
 ### Spotify Music Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&redirect=true)
 <br/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/LawrenceBaatjies=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <br/>
  
 ### Connect with me:
