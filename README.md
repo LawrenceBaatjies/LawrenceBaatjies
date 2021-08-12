@@ -11,10 +11,6 @@
 ![Linkedin:Follow](https://img.shields.io/badge/-LawrenceBaatjies-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
  ![Twitter:Follow](https://img.shields.io/twitter/follow/Jackwebber?style=social)
 
-<p align="center">
-  <img alig src="https://github.com/Lawrence/Lawrence/blob/master/about.gif" />
-</p>
-
 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...  
  <h3>I'm a Husband, Father, A Student Aspiring to become a Full Stack Web Developer!</h3>
@@ -61,7 +57,7 @@
 <br/>
 ### Connect with me:
 
-(Pending...)
+[![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)](mailto:lawrencebaatjies47@gmail.com)
 
 <br/>
 ### Languages and Tools:
