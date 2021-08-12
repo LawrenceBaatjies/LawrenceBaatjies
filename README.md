@@ -8,9 +8,16 @@
 
 <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
 ### Thanks for Visiting✌![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/>
-![Github Follow](https://img.shields.io/github/followers/https://github.com/LawrenceBaatjies?logo=GitHub&style=social?style=plastic&logo=appveyor)
-![Twitter Follow](https://img.shields.io/twitter/follow/https://twitter.com/Jackweb20299323?logo=Twitter&style=social?style=plastic&logo=appveyor)
+![Github Follow](https://img.shields.io/github/followers/https://github.com/LawrenceBaatjies?logo=GitHub&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Jackweb20299323?style=social)] (https://twitter.com/Jackweb20299323?logo=Twitter&style=social)
+[![Linkedin] (https://img.shields.io/badge/lawrencebaatjies-blue?style=plastic=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lawrence-baatjies-a13904192/) 
+ 
+ [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
  <h3>I'm a Husband,Father,A Student Aspiring to become a Developer!!🇿🇦</h3>
 <br />
 
