@@ -60,7 +60,7 @@
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
 
 <br/>
-### Languages and Tools:
+### Languages and Tools I Use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -116,12 +116,12 @@ JQuery       █████░░░░░░
  
 📱### Contact Me 🔝
 
-[Website]: ("Still-Pending")
-[Course]:  (https://www.freecodecamp.org/jackwebber47)
-[Course]:  (https://codepen.io/jackwebber47)
-[Twitter]: (https://twitter.com/Jackweb20299323)
-[Youtube]: (https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ)
-[Linkedin]:(https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
+![Website]: ("Still-Pending")
+![Course]:  (https://www.freecodecamp.org/jackwebber47)
+![Course]:  (https://codepen.io/jackwebber47)
+![Twitter]: (https://twitter.com/Jackweb20299323)
+![Youtube]: (https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ)
+![Linkedin]:(https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
 
 </details>
 
