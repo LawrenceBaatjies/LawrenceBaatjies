@@ -7,17 +7,15 @@
 **LawrenceBaatjies/LawrenceBaatjies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-[![Github Follow](https://img.shields.io /github/followers/:LawrenceBaatjies?label=Follow/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
- 
+[![visitors]Thanks For Visiting.(https://visitor-badge.glitch.me/badge?page_id=page.id)
+[![Github Follow](https://img.shields.io/github/followers/https://github.com/LawrenceBaatjies?style=social)
+[![Github Follow] (https://img.shields.io/twitter/follow/https://twitter.com/Jackweb20299323?style=social)
 
  <h3>I'm a Husband,Father,A Student Aspiring to become a Developer!!🇿🇦</h3>
 <br />
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][JavaScript]!
-- 🌱 I’m currently learning {SQL}.
+- 🌱 I’m currently learning {SQL-DataBase-Week-2}.
 - 👥 I’m looking to collaborate with other Student.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✨ Fun fact: I love to Tattoo and play video games.
@@ -36,10 +34,7 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
-
-
 <br/>
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
