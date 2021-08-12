@@ -11,7 +11,9 @@
 ![Linkedin:Follow](https://img.shields.io/badge/-LawrenceBaatjies-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
  ![Twitter:Follow](https://img.shields.io/twitter/follow/Jackwebber?style=social)
 
-
+<p align="center">
+  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
+</p>
 
 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...  
