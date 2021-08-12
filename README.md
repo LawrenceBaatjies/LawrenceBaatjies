@@ -45,7 +45,7 @@
  ### Want to Help Support My learing Develpoment? 👉👈
  ### If(True = Buy Me A Coffee then lol☕)👇(Click Button)👇
  
- <img align='right' src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="250" target="_blank">
+ <img align='right' src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="350" target="_blank">
  <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
  
  - 💼 Any freelance work? Reach me @ ![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
@@ -55,6 +55,7 @@
 <hr />
  
 ### Spotify Music Playing 🎧
+ 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&redirect=true)
 <br/>
 
