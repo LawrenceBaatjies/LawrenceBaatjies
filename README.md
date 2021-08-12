@@ -6,7 +6,7 @@
 <!--
 
 <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
-### Thanks for Visiting✌![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/>
+
 [![GitHub:Follow](https://img.shields.io/github/followers/Lawrence?label=follow&style=social)](https://github.com/LawrenceBaatjies)
 ![Linkedin:Follow](https://img.shields.io/badge/-LawrenceBaatjies-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
  ![Twitter:Follow](https://img.shields.io/twitter/follow/Jackwebber?style=social)
@@ -126,3 +126,5 @@ JQuery       █████░░░░░░
 </details>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ <br />
+ ### Thanks for Visiting✌![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/>
