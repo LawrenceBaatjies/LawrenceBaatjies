@@ -8,7 +8,7 @@
 
 <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
 ### Thanks for Visiting✌![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/>
-![Github Follow](https://img.shields.io/github/followers/https://github.com/LawrenceBaatjies?logo=GitHub&style=social)
+![![GitHub Thaiane](https://img.shields.io/github/followers/LawrenceBaatjies?label=follow&style=social)](https://github.com/LawrenceBaatjies)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Jackweb20299323?style=social)] (https://twitter.com/Jackweb20299323?logo=Twitter&style=social)
 [![Linkedin] (https://img.shields.io/badge/lawrencebaatjies-blue?style=plastic=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lawrence-baatjies-a13904192/) 
  
