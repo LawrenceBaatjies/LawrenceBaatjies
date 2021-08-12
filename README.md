@@ -25,8 +25,8 @@
 ### Spotify Music Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="lawrence Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?[LawrenceBaatjies](https://github.com/LawrenceBaatjies)=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?(https://github.com/LawrenceBaatjies)=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<br/>
 ### Connect with me:
 
 (Pending...)
