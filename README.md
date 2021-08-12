@@ -57,7 +57,7 @@
 <br/>
 ### Connect with me:
 
-Email: [![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)](mailto:lawrencebaatjies47@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)](mailto:lawrencebaatjies47@gmail.com)
 
 <br/>
 ### Languages and Tools:
@@ -128,3 +128,5 @@ JQuery       █████░░░░░░
 [![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  <br />
  ### Thanks for Visiting✌![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/>
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
