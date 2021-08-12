@@ -7,9 +7,9 @@
 **LawrenceBaatjies/LawrenceBaatjies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
-### Thanks for Visiting✌![visitors](https://visitor-badge.glitch.me/badge?style=plastic&logo=appveyor.page_id=page.id) <br/>
-![Github Follow](https://img.shields.io/github/followers/https://github.com/LawrenceBaatjies?logo=GitHub&style=social.?style=plastic&logo=appveyor)
-![Twitter Follow](https://img.shields.io/twitter/follow/https://twitter.com/Jackweb20299323?logo=Twitter&style=social.?style=plastic&logo=appveyor)
+### Thanks for Visiting✌![visitors](https://visitor-badge.glitch.me/badge?style=plastic&logo=appveyor_page_id=page.id) <br/>
+![Github Follow](https://img.shields.io/github/followers/https://github.com/LawrenceBaatjies?logo=GitHub&style=social?style=plastic&logo=appveyor)
+![Twitter Follow](https://img.shields.io/twitter/follow/https://twitter.com/Jackweb20299323?logo=Twitter&style=social?style=plastic&logo=appveyor)
 
  <h3>I'm a Husband,Father,A Student Aspiring to become a Developer!!🇿🇦</h3>
 <br />
