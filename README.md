@@ -43,14 +43,13 @@
  <hr />
  <img align='right-top' src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="350" border-raduis="5px" target="_blank">
  
- <br />
-  Want to Help Support My learing Develpoment? 👉👈
  
- <br />
+  Want to Help Support My learing Develpoment??? 👉👈
  
-   If(True){
+  If(True){
      return (
-       Buy_Me_A_Coffee_then-lol☕)👇(Click Button)👇
+       Buy_Me_A_Coffee_then-lol☕)
+          👇(Click Button)👇
    )
  };
  
@@ -75,7 +74,7 @@ Spotify Music Playing 🎧
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
 
 <br/>
-### Languages and Tools I Use:
+Languages and Tools I Use:
 
 <img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
