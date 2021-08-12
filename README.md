@@ -7,7 +7,7 @@
 **LawrenceBaatjies/LawrenceBaatjies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
-### Thanks for Visiting✌![visitors](https://visitor-badge.glitch.me/badge?id=page.id) <br/>
+### Thanks for Visiting✌![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/>
 ![Github Follow](https://img.shields.io/github/followers/https://github.com/LawrenceBaatjies?logo=GitHub&style=social?style=plastic&logo=appveyor)
 ![Twitter Follow](https://img.shields.io/twitter/follow/https://twitter.com/Jackweb20299323?logo=Twitter&style=social?style=plastic&logo=appveyor)
 
