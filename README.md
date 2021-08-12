@@ -45,7 +45,7 @@
  <hr />
  
  ### Want to Help Support My learing Develpoment? 👉👈
- ### If(True = Buy Me A Coffee☕)👇(cleck Button)👇
+ ### If(True = Buy Me A Coffee then lol☕)👇(click Button)👇
  
  <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
  
