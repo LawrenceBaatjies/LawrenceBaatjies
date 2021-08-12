@@ -45,11 +45,11 @@
  ### Want to Help Support My learing Develpoment? 👉👈
  ### If(True = Buy Me A Coffee then lol☕)👇(Click Button)👇
  
- <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
+ <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
  - 💼 Any freelance work? Reach me @ ![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
 - 💬 Ask me about anything, i am happy to help; <br />
- <img align="right"  src"https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="60">
- <div style="width:100%;height:0;padding-bottom:46%;position:relative;"><iframe src="https://giphy.com/embed/GNBCVMv6XobnMUMYJG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/buymeacoffee-bmc-buy-me-a-coffee-im-on-GNBCVMv6XobnMUMYJG">via GIPHY</a></p>
+<a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank">  <img align="right"  src"https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="60">
+ 
 <hr />
  
 ### Spotify Music Playing 🎧
