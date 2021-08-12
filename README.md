@@ -42,9 +42,9 @@
  <br />
  <hr />
 <!--  Buy Me a coffee -->
- <img align='right-top' src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="350" border-raduis='5px' target="_blank">  <img align='right-top' src="https://media.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif" width="150" border-raduis='5px' target="_blank">
+ <img align="right-top" src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="350" border-raduis='5px' target="_blank">  
+ <img align="left-top" src="https://media.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif" width="150" border-raduis='5px' target="_blank">
 
- 
   Want to Help Support My learing Develpoment??? 👉👈
  
   If(True){
