@@ -25,6 +25,11 @@
   
 <br />
 <hr />
+  - 💼 Any freelance work? Reach me @ ![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?  style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
+ 
+- 💬 Ask me about anything, i am happy to help; <br />
+ 
+<hr />
  
 ⏱️### Workflow Platforms 🔝
  
@@ -56,9 +61,7 @@
  
  <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="130" ></a>
  
- - 💼 Any freelance work? Reach me @ ![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
- 
-- 💬 Ask me about anything, i am happy to help; <br />
+
  
  
 <hr />
