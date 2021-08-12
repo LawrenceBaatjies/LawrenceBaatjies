@@ -51,9 +51,8 @@
 <hr />
  
 ### Spotify Music Playing 🎧
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-  Vibing to : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="lawrence Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&redirect=true)
+<br/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/LawrenceBaatjies=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <br/>
  
