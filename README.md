@@ -41,12 +41,11 @@
  💻### OS 🔝
  <br />
  <hr />
- <img align='right-top' src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="350" target="_blank">
+ <img align='right-top' src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="350" border-raduis="5px" target="_blank"><br />
  ### Want to Help Support My learing Develpoment? 👉👈<br />
  ### If(True = Buy Me A Coffee then lol☕)👇(Click Button)👇
  
-
- <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
+ <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="130" ></a>
  
  - 💼 Any freelance work? Reach me @ ![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
  
