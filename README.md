@@ -43,7 +43,7 @@
  <hr />
  
  ### Want to Help Support My learing Develpoment? 👉👈
- ### If(True = Buy Me A Coffee then lol☕)👇(click Button)👇
+ ### If(True = Buy Me A Coffee then lol☕)👇(Click Button)👇
  
  <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
  - 💼 Any freelance work? Reach me @ ![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
@@ -55,6 +55,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="lawrence Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 <img height="140em" src="https://github-readme-stats.vercel.app/api/LawrenceBaatjies=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <br/>
+ 
 ### Connect with me:
 
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
@@ -62,14 +63,14 @@
 <br/>
 ### Languages and Tools I Use:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -116,12 +117,12 @@ JQuery       █████░░░░░░
  
 📱### Contact Me 🔝
 
-![Website]: ("Still-Pending")
-![Course]:  (https://www.freecodecamp.org/jackwebber47)
-![Course]:  (https://codepen.io/jackwebber47)
-![Twitter]: (https://twitter.com/Jackweb20299323)
-![Youtube]: (https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ)
-![Linkedin]:(https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
+![Website]("Still-Pending")
+![Course](https://www.freecodecamp.org/jackwebber47)
+![Course](https://codepen.io/jackwebber47)
+![Twitter](https://twitter.com/Jackweb20299323)
+![Youtube](https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ)
+![Linkedin](https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
 
 </details>
 
