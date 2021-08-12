@@ -2,7 +2,7 @@
 " width="70" target="_blank">
 </h3>
 <hr />
-<img align='right' src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" width="250" target="_blank">
+<img align='right' src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif"width="250" target="_blank">
 <!--
 
 <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
@@ -16,12 +16,12 @@
  <h3>I'm a Husband, Father, A Student Aspiring to become a Full Stack Web Developer!</h3>
 <br />
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][JavaScript]!
+- 🔭 I just Finished my Node.js course.
 - 🌱 I’m currently learning {SQL-DataBase-Week-2}.
 - 👥 I’m looking to collaborate with other Student.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✨ Fun fact: I love to Tattoo and play video games.
- - 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
+ - 📝 [Resume](https://LawrenceBaatjies.github.io/media/Rashmi_Jadhav.pdf)
   
 <br />
 <hr />
@@ -46,9 +46,11 @@
  ### If(True = Buy Me A Coffee then lol☕)👇(Click Button)👇
  
  <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
+ 
  - 💼 Any freelance work? Reach me @ ![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
 - 💬 Ask me about anything, i am happy to help; <br />
-<a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank">  <img align="right"  src"https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="60">
+ 
+ <img align='right' src"https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="60" target="_blank">
  
 <hr />
  
