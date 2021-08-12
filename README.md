@@ -10,7 +10,7 @@
 ### Thanks for Visiting✌![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/>
 ![![GitHub Folow](https://img.shields.io/github/followers/LawrenceBaatjies?label=follow&style=social)](https://github.com/LawrenceBaatjies)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Jackwebber?style=social)
-![Linkedin] (https://img.shields.io/badge/lawrencebaatjies-blue?style=plastic=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lawrence-baatjies-a13904192/) 
+![Linkedin] (https://img.shields.io/badge/lawrencebaatjies-blue?style=plastic=social)
  
  [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
