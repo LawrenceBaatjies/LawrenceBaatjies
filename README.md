@@ -7,7 +7,7 @@
 **LawrenceBaatjies/LawrenceBaatjies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
-
+[!visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 [![Github Follow](https://img.shields.io/https://github.com/LawrenceBaatjies&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
@@ -17,7 +17,7 @@
 <br />
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][JavaScript]!
-- 🌱 I’m currently learning {JavaScript Core-3-Week-3}.
+- 🌱 I’m currently learning {SQL}.
 - 👥 I’m looking to collaborate with other Student.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✨ Fun fact: I love to Tattoo and play video games.
