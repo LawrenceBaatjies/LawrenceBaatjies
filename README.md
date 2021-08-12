@@ -41,7 +41,7 @@
  💻### OS 🔝
  <br />
  <hr />
- 
+ <img align='right'  src"https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif width="60"">
  ### Want to Help Support My learing Develpoment? 👉👈
  ### If(True = Buy Me A Coffee then lol☕)👇(Click Button)👇
  
