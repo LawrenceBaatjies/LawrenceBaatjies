@@ -56,12 +56,6 @@
 <br/>
 
 
-
-![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515-align='left')
-
-
-<br />
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
@@ -97,7 +91,8 @@ JavaScript   █████████████████░░░░░
 React        ████████░░░░░░░░░░░░░░░░░ 
 JQuery       █████░░░░░░ 
 ```
-
+ <hr />
+![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 [website]: "Still-Pending"
@@ -109,3 +104,4 @@ JQuery       █████░░░░░░
 
 </details>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
