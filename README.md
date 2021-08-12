@@ -42,9 +42,12 @@
  <br />
  <hr />
  <img align='right-top' src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="350" border-raduis="5px" target="_blank">
+ 
  <br />
   Want to Help Support My learing Develpoment? 👉👈
-  <br />
+ 
+ <br />
+ 
    If(True){
      return (
        Buy_Me_A_Coffee_then-lol☕)👇(Click Button)👇
