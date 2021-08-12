@@ -28,26 +28,26 @@
 <br />
 <hr />
  
- ⏱️### Workflow Platforms 🔝
+⏱️### Workflow Platforms 🔝
  
- 🌐### Web Browsers 🔝 
+🌐### Web Browsers 🔝 
  
 🚀### Frameworks 🔝
  
 🎓📚### Education 🔝
  
- ☁### Cloud 🔝
+☁### Cloud 🔝
  
 👩‍💻### IDE 🔝
  
-💻### OS 🔝
+ 💻### OS 🔝
  <br />
  <hr />
  
- ###Want to Help Support My learing Develpoment?
- ### If(True = Buy Me A Coffee☕)
+ ### Want to Help Support My learing Develpoment?
+ ### If(True = Buy Me A Coffee☕)👇(cleck Button)👇
  
- <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="100" ></a>
+ <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
  
 <hr />
  
