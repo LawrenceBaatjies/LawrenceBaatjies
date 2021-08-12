@@ -15,7 +15,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...  
  <h3>I'm a Husband,Father,A Student Aspiring to become a Developer!!🇿🇦</h3>
 <br />
 
