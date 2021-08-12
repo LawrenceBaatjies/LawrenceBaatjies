@@ -41,9 +41,15 @@
  💻### OS 🔝
  <br />
  <hr />
- <img align='right-top' src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="350" border-raduis="5px" target="_blank"><br />
- ### Want to Help Support My learing Develpoment? 👉👈<br />
- ### If(True = Buy Me A Coffee then lol☕)👇(Click Button)👇
+ <img align='right-top' src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="350" border-raduis="5px" target="_blank">
+ <br />
+  Want to Help Support My learing Develpoment? 👉👈
+  <br />
+   If(True){
+     return (
+       Buy_Me_A_Coffee_then-lol☕)👇(Click Button)👇
+   )
+ };
  
  <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="130" ></a>
  
@@ -54,7 +60,7 @@
  
 <hr />
  
-### Spotify Music Playing 🎧
+Spotify Music Playing 🎧
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&redirect=true)
 <br/>
