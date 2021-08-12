@@ -56,7 +56,7 @@
 
 <br/>
  
-### Connect with me:
+### Connect with By:
 
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
 
