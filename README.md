@@ -45,12 +45,12 @@
  ### Want to Help Support My learing Develpoment? 👉👈
  ### If(True = Buy Me A Coffee then lol☕)👇(Click Button)👇
  
+ <img align='right' src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="120" target="_blank">
  <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
  
  - 💼 Any freelance work? Reach me @ ![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
 - 💬 Ask me about anything, i am happy to help; <br />
  
- <img align='right' src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="60" target="_blank">
  
 <hr />
  
