@@ -7,7 +7,7 @@
 **LawrenceBaatjies/LawrenceBaatjies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
-### Thanks for Visiting✌![visitors](https://visitor-badge.glitch.me/badge?style=plastic&logo=appveyor_page_id=page.id) <br/>
+### Thanks for Visiting✌![visitors](https://visitor-badge.glitch.me/badge?id=page.id) <br/>
 ![Github Follow](https://img.shields.io/github/followers/https://github.com/LawrenceBaatjies?logo=GitHub&style=social?style=plastic&logo=appveyor)
 ![Twitter Follow](https://img.shields.io/twitter/follow/https://twitter.com/Jackweb20299323?logo=Twitter&style=social?style=plastic&logo=appveyor)
 
@@ -25,7 +25,7 @@
 ### Spotify Music Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="lawrence Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/github.com/LawrenceBaatjies=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api/LawrenceBaatjies=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <br/>
 ### Connect with me:
 
