@@ -12,7 +12,7 @@
  ![Twitter:Follow](https://img.shields.io/twitter/follow/Jackwebber?style=social)
 
 <p align="center">
-  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
+  <img alig src="https://github.com/Lawrence/Lawrence/blob/master/about.gif" />
 </p>
 
 
