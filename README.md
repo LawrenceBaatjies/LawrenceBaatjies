@@ -86,8 +86,8 @@
 
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
 ![Website](Still-Pending...)
-![Twitter](https://twitter.com/Jackweb20299323)
-![Youtube](https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ)
+![Twitter](https://img.shields.io/twitter/url?logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FJackweb20299323) 
+![Youtube](https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ?logo=Youtube&style=social)
 ![Linkedin](https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
 <hr />
 <br/>
