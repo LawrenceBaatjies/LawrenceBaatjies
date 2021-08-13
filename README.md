@@ -33,9 +33,8 @@
 - 💰 Want to Donate and help A fellow Developer? 
  <br />
  
- [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=22VPEEV2PZDD8)
+      [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=22VPEEV2PZDD8)
  
-<!--  ![paypal](https://www.paypal.com/donate?hosted_button_id=22VPEEV2PZDD8)(webber2810@gmail.com@dollorbillss) -->
 
  <br />
 <hr />
