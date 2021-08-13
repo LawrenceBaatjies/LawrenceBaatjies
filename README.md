@@ -25,11 +25,11 @@
   
 <br />
 <hr />
-  <h3> I'm Open for Business. </h3> 
+  <h3> I'm Open for Business 
   - 💼 Any freelance work? Reach me @ ![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
  
 - 💬 Ask me about anything, i am happy to help.
-
+</h3> 
  <br />
 <hr />
  
