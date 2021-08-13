@@ -79,7 +79,13 @@
 ### Connect Me By:
 
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
-
+![Website]("Still-Pending")
+![Course](https://www.freecodecamp.org/jackwebber47)
+![Course](https://codepen.io/jackwebber47)
+![Twitter](https://twitter.com/Jackweb20299323)
+![Youtube](https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ)
+![Linkedin](https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
+<hr />
 <br/>
  <h3>Languages and Tools I Use</h3>
 
@@ -127,12 +133,6 @@
  > 
 > 🔑 1 Private Repositories 
  
-![Website]("Still-Pending")
-![Course](https://www.freecodecamp.org/jackwebber47)
-![Course](https://codepen.io/jackwebber47)
-![Twitter](https://twitter.com/Jackweb20299323)
-![Youtube](https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ)
-![Linkedin](https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
 
 **Programming Language Proficiency**
 ```text
