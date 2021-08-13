@@ -13,7 +13,7 @@
 
 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...  
- <h3>I'm a Husband, Father, A Student Aspiring to become a Full Stack Web Developer!</h3>
+ <h3>I'M A Husband, A Father, And A Student Aspiring To Become A Full Stack Web Developer!</h3>
 <br />
 
 - 🔭 I just Finished my Node.js course.
@@ -25,12 +25,12 @@
   
 <br />
 <hr />
-  <h3> I'm Open for Business </h3> 
+  <h3> I'm Open for Business. </h3> 
   - 💼 Any freelance work? Reach me @ ![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
  
-- 💬 Ask me about anything, i am happy to help;
+- 💬 Ask me about anything, i am happy to help.
 
-<br />
+ <br />
 <hr />
  
 ⏱️### Workflow Platforms 🔝
@@ -51,7 +51,7 @@
  
 <!--  Buy Me a coffee -->
  <img align="right-top" src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="350" border-raduis=5px target="_blank">  
- <img postion="left-top" src="https://media.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif" width="250" border-raduis=5px target="_blank">
+ <img align="left-top" src="https://media.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif" width="250" border-raduis=5px target="_blank">
 
  <h2> Want to Help Support My learing Develpoment??? 👉👈</h2>
  
@@ -68,19 +68,19 @@
  
 <hr />
  
-Spotify Music Playing 🎧
+<h3> Spotify Music Playing 🎧</h3>
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&redirect=true)
 <br/>
 <hr />
 
  
-### Connect with By:
+### Connect Me By:
 
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
 
 <br/>
- <h3>Languages and Tools I Use:</h3>
+ <h3>Languages and Tools I Use</h3>
 
 <img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -114,7 +114,7 @@ Spotify Music Playing 🎧
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
@@ -126,7 +126,7 @@ Spotify Music Playing 🎧
  > 
 > 🔑 1 Private Repositories 
  
- ![Website]("Still-Pending")
+![Website]("Still-Pending")
 ![Course](https://www.freecodecamp.org/jackwebber47)
 ![Course](https://codepen.io/jackwebber47)
 ![Twitter](https://twitter.com/Jackweb20299323)
@@ -143,6 +143,8 @@ JQuery       █████░░░░░░
 ```
   <!--END_SECTION:activity-->
  <hr />
+ 
+ ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 ![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
  
 
@@ -151,4 +153,4 @@ JQuery       █████░░░░░░
 [![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  <br />
  
- ![visitors](https://visitors-badge.glitch.me/badge?page_id=page.id) <br/> <img height="100" alt="Thanks For Visiting My Profile👌" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/> <img height="100" alt="Thanks For Visiting My Profile👌" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
