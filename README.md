@@ -98,12 +98,7 @@ Spotify Music Playing 🎧
 <br />
 <details>
  
- ![Website]("Still-Pending")
-![Course](https://www.freecodecamp.org/jackwebber47)
-![Course](https://codepen.io/jackwebber47)
-![Twitter](https://twitter.com/Jackweb20299323)
-![Youtube](https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ)
-![Linkedin](https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
+
 
   <summary>:zap: Recent GitHub Activity</summary>
 
@@ -130,6 +125,13 @@ Spotify Music Playing 🎧
 > 📜 32 Public Repositories
  > 
 > 🔑 1 Private Repositories 
+ 
+ ![Website]("Still-Pending")
+![Course](https://www.freecodecamp.org/jackwebber47)
+![Course](https://codepen.io/jackwebber47)
+![Twitter](https://twitter.com/Jackweb20299323)
+![Youtube](https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ)
+![Linkedin](https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
 
 **Programming Language Proficiency**
 ```text
@@ -146,7 +148,7 @@ JQuery       █████░░░░░░
 
 </details>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  <br />
  
  ![Profile Views & Visitors](https://visitors-badge.glitch.me/badge?page_id=page.id) <br/> <img height="100" alt="Thanks For Visiting My Profile👌" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
