@@ -97,6 +97,14 @@ Spotify Music Playing 🎧
 
 <br />
 <details>
+ 
+ ![Website]("Still-Pending")
+![Course](https://www.freecodecamp.org/jackwebber47)
+![Course](https://codepen.io/jackwebber47)
+![Twitter](https://twitter.com/Jackweb20299323)
+![Youtube](https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ)
+![Linkedin](https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
+
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
@@ -136,17 +144,9 @@ JQuery       █████░░░░░░
 ![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
  
 
-
-![Website]("Still-Pending")
-![Course](https://www.freecodecamp.org/jackwebber47)
-![Course](https://codepen.io/jackwebber47)
-![Twitter](https://twitter.com/Jackweb20299323)
-![Youtube](https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ)
-![Linkedin](https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
-
 </details>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  <br />
  
- ![Profile Views & Visitors](https:// Profile Views & Visitors-badge.glitch.me/badge?page_id=page.id) <br/> <img height="100" alt="Thanks For Visiting My Profile👌" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ ![Profile Views & Visitors](https://visitors-badge.glitch.me/badge?page_id=page.id) <br/> <img height="100" alt="Thanks For Visiting My Profile👌" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
