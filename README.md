@@ -149,4 +149,4 @@ JQuery       █████░░░░░░
 [![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  <br />
  
- ![Profile Views & Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/> <img height="100" alt="Thanks For Visiting My Profile👌" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ ![Profile Views & Visitors](https:// Profile Views & Visitors-badge.glitch.me/badge?page_id=page.id) <br/> <img height="100" alt="Thanks For Visiting My Profile👌" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
