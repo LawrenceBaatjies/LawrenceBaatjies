@@ -54,14 +54,14 @@
  <img align="right-top" src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="350" border-raduis=5px target="_blank">  
  <img align="left-top" src="https://media.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif" width="250" border-raduis=5px target="_blank">
 
- <h2> Want to Help Support My learing Develpoment??? 👉👈</h2>
+ <h3> Want To Help Support My Coding Journey??? 👉👈</h3>
  
- <p> If(True){
-     return (
-       Buy_Me_A_Coffee_then-lol☕)
+ <p> If(True){ <br/>
+     return ( <br/>
+       Buy_Me_A_Coffee_then-lol☕) <br/>
           👇(Click Button)👇
-   )
- };
+   )<br />
+ }; <br />
  <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="130" ></a>
 </p> 
 
