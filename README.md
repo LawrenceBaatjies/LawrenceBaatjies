@@ -53,7 +53,7 @@
  <img align="right-top" src="https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif" width="350" border-raduis=5px target="_blank">  
  <img postion="left-top" src="https://media.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif" width="250" border-raduis=5px target="_blank">
 
- <h2> Want to Help Support My learing Develpoment??? 👉👈<h2>
+ <h2> Want to Help Support My learing Develpoment??? 👉👈</h2>
  
  <p> If(True){
      return (
@@ -62,7 +62,7 @@
    )
  };
  <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="130" ></a>
-<p> 
+</p> 
 
  
  
@@ -80,7 +80,7 @@ Spotify Music Playing 🎧
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
 
 <br/>
-Languages and Tools I Use:
+ <h3>Languages and Tools I Use:</h3>
 
 <img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -131,10 +131,11 @@ JavaScript   █████████████████░░░░░
 React        ████████░░░░░░░░░░░░░░░░░ 
 JQuery       █████░░░░░░ 
 ```
+  <!--END_SECTION:activity-->
  <hr />
 ![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
  
-📱### Contact Me 🔝
+
 
 ![Website]("Still-Pending")
 ![Course](https://www.freecodecamp.org/jackwebber47)
