@@ -61,7 +61,7 @@
 
  <h3> Want To Help Support My Coding Journey??? 👉👈</h3>
  
- <p> If(True){ <br/>
+ <p> If(Answer = True) { <br/>
      return ( <br/>
        Buy_Me_A_Coffee_then-lol☕) <br/>
           👇(Click Button)👇
