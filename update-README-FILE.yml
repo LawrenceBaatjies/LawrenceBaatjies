@@ -11,6 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: https://github.com/LawrenceBaatjies
+      - uses: (https://github.com/LawrenceBaatjies)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
