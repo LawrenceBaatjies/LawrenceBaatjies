@@ -34,19 +34,19 @@
  <br />
 <hr />
  
-⏱️### Workflow Platforms 🔝
+⏱️Workflow Platforms 🔝
  
-🌐### Web Browsers 🔝 
+🌐Web Browsers 🔝 
  
-🚀### Frameworks 🔝
+🚀Frameworks 🔝
  
 🎓📚### Education 🔝
  
-☁### Cloud 🔝
+☁Cloud 🔝
  
-👩‍💻### IDE 🔝
+👩‍💻IDE 🔝
  
- 💻### OS 🔝
+💻OS 🔝
  <br />
  <hr />
  
