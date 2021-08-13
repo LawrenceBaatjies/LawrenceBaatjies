@@ -87,7 +87,7 @@
 ![Website](Still-Pending...)
 ![Twitter](https://img.shields.io/twitter/url?logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FJackweb20299323) 
 ![Youtube](https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/channel/UCU6BMXFmZyPMmzRwE0T-fkQ?logo=Youtube&style=social)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
 <hr />
 <br/>
  <h3>Languages and Tools I Use</h3>
