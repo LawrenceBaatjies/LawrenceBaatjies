@@ -30,8 +30,9 @@
  - 💼 Any Freelance Work? Reach Me @ ![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
  
 - 💬 Ask me about anything, I am happy to help.
-- 💰 Want to Donate and help A fellow Developer? <br />
- [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](YOUR_EMAIL_CODE)
+- 💰 Want to Donate and help A fellow Developer? 
+ <br />
+ [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](webber2810@gmail.com_@dollorbillss)
 
 
  <br />
