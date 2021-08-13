@@ -27,7 +27,7 @@
 <hr />
   <h3> I'm Open for Business </h3>
  
- - 💼 Any Freelance Work? Reach Me @ ![Gmail Badge](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
+ - 💼 Any Freelance Work? Reach Me @ ![Gmail](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
  
 - 💬 Ask me about anything, I am happy to help.
 - 💰 Want to Donate and help A fellow Developer? 
