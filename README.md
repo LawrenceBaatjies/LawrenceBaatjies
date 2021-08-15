@@ -17,7 +17,7 @@
 <br />
 
 - 🔭 I just Finished my Node.js course.
-- 🌱 I’m currently learning {SQL-DataBase-Week-2}.
+- 🌱 I’m currently learning {SQL-DataBase-Week-3}.
 - 👥 I’m looking to collaborate with other Student.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✨ Fun fact: I love to Tattoo and play video games.
