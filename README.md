@@ -39,28 +39,28 @@
  <br />
 <hr />
  
-⏱️Workflow Platforms 🔝
+⏱️Workflow Platforms 🔝<br />
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br />
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)<br />
  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=for-the-badge&logo=kali-linux&logoColor=white)<br />
  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)<br />
-🌐Web Browsers 🔝 
+🌐Web Browsers 🔝 <br />
  ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)<br />
  ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)<br />
  ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)<br />
  ![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)<br />
-🚀Frameworks 🔝
+🚀Frameworks 🔝<br />
  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)<br />
  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br />
  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)<br />
  ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)<br />
-🎓📚Education 🔝
+🎓📚Education 🔝<br />
  
-☁Cloud 🔝
+☁Cloud 🔝<br />
  
-👩‍💻IDE 🔝
+👩‍💻IDE 🔝<br />
  
-💻OS 🔝
+💻OS 🔝<br />
  <br />
  <hr />
  
