@@ -67,7 +67,7 @@
  ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=social-the-badge&logo=codecademy&logoColor=303347)<br />
  ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=social-the-badge&logo=Udemy&logoColor=white)<br />
 ☁Cloud 🔝<br />
- ![Google Cloud-](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)<br />
+ ![Google Cloud-](https://img.shields.io/badge/Google_Cloud-4285F4?style=social-the-badge&logo=google-cloud&logoColor=white)<br />
  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=social-the-badge&logo=oracle&logoColor=black)<br />
  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=social-the-badge&logo=heroku&logoColor=white)<br />
  ![Replit](https://img.shields.io/badge/replit-667881?style=social-the-badge&logo=replit&logoColor=white)<br />
