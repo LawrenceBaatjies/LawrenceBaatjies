@@ -60,7 +60,7 @@
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=social-the-badge&logo=mysql&logoColor=white)<br />
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=social-the-badge&logo=postgresql&logoColor=white)<br />
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=social-the-badge&logo=mongodb&logoColor=white)<br />
-🎓📚Education 🔝</h4><br />
+<h4>🎓📚Education 🔝</h4><br />
  ![FreeCodeCamp](https://img.shields.io/badge/free%20code%20camp-27273D?style=social-the-badge&logo=freecodecamp&logoColor=white)<br />
  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=social-the-badge&logo=Coursera&logoColor=white)<br />
  ![KhanAcademy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=social-the-badge&logo=Khan%20Academy&logoColor=white)<br />
