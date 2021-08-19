@@ -119,13 +119,14 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 <hr />
 
  
-📞Connect Me By:
+📞Connect Me By:<br />
 Portfolio Website Still-Pending...<br />
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)align="left"
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:lawrencebaatjies47@gmail.com)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) 
-![Youtube](https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrence-baatjies-a13904192)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=social-the-badge&logo=slack&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=social-the-badge&logo=gmail&logoColor=white=mailto:lawrencebaatjies47@gmail.com)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=social-the-badge&logo=twitter&logoColor=white) 
+![Youtube](https://img.shields.io/badge/Youtube-E4405F?style=social-the-badge&logo=youtube&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=social-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrence-baatjies-a13904192)
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=social-the-badge&logo=stack-overflow&logoColor=white)
 <hr />
 <br/>
  <h3>Languages And Tools I Play With</h3>
