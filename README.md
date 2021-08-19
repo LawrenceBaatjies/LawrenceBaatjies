@@ -21,7 +21,7 @@
 - 👥 I’m looking to collaborate with other Student.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✨ Fun fact: I love to Tattoo and play video games.
- - 📝 [Resume](https://LawrenceBaatjies.github.io/media/Rashmi_Jadhav.pdf)
+ - 📝 [Resume](https://drive.google.com/file/d/1ICWjr4tNzWeH5kGb34QkgoSMcEQ844Q2/view?usp=sharing)
   
 <br />
 <hr />
