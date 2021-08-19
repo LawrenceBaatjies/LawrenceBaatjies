@@ -39,15 +39,15 @@
  <br />
 <hr />
  
- <h4>⏱️Workflow Platforms 🔝</h4><br />
+ ⏱️Workflow Platforms 🔝<br />
  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=social-the-badge&logo=Jenkins&logoColor=white)<br />
  ![ProofHub](https://img.shields.io/badge/ProofHub-D24939?style=social-the-badge&logo=ProofHub&logoColor=white)<br />
-<h4>🌐Web Browsers 🔝</h4> <br />
+🌐Web Browsers 🔝 <br />
  ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=social-the-badge&logo=Google-chrome&logoColor=white)<br />
  ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=social-the-badge&logo=Microsoft-edge&logoColor=white)<br />
  ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=social-the-badge&logo=Firefox-Browser&logoColor=white)<br />
  ![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=social-the-badge&logo=Tor-Browser&logoColor=white)<br />
-<h4>🚀Frameworks 🔝</h4><br />
+🚀Frameworks 🔝<br />
  ![React](https://img.shields.io/badge/React-20232A?style=social-the-badge&logo=react&logoColor=61DAFB)<br />
  ![/React Router](https://img.shields.io/badge/React_Router-CA4245?style=social-the-badge&logo=react-router&logoColor=white)<br />
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=social-the-badge&logo=bootstrap&logoColor=white)<br />
@@ -56,28 +56,28 @@
  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=social-the-badge&logo=express&logoColor=white)<br />
  ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=social-the-badge&logo=Socket.io&logoColor=white)<br />
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-social-badge&logo=Postman&logoColor=white)<br />
- <h4>⚡ Database 🔝</h4><br />
+ ⚡ Database 🔝<br />
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=social-the-badge&logo=mysql&logoColor=white)<br />
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=social-the-badge&logo=postgresql&logoColor=white)<br />
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=social-the-badge&logo=mongodb&logoColor=white)<br />
-<h4>🎓📚Education 🔝</h4><br />
+🎓📚Education 🔝<br />
  ![FreeCodeCamp](https://img.shields.io/badge/free%20code%20camp-27273D?style=social-the-badge&logo=freecodecamp&logoColor=white)<br />
  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=social-the-badge&logo=Coursera&logoColor=white)<br />
  ![KhanAcademy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=social-the-badge&logo=Khan%20Academy&logoColor=white)<br />
  ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=social-the-badge&logo=codecademy&logoColor=303347)<br />
  ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=social-the-badge&logo=Udemy&logoColor=white)<br />
-<h4>☁Cloud 🔝</h4><br />
+☁Cloud 🔝<br />
  ![Google Cloud-](https://img.shields.io/badge/Google_Cloud-4285F4?style=social-the-badge&logo=google-cloud&logoColor=white)<br />
  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=social-the-badge&logo=oracle&logoColor=black)<br />
  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=social-the-badge&logo=heroku&logoColor=white)<br />
  ![Replit](https://img.shields.io/badge/replit-667881?style=social-the-badge&logo=replit&logoColor=white)<br />
  ![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=social-the-badge&logo=glitch&logoColor=white)<br />
  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=social-the-badge&logo=netlify&logoColor=white)<br />
-<h4>👩‍💻IDE 🔝</h4><br />
+👩‍💻IDE 🔝<br />
  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=social-the-badge&logo=visual%20studio&logoColor=white)<br />
  ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=social-the-badge&logo=sublime-text&logoColor=important)<br />
  ![Atom](https://img.shields.io/badge/Atom-66595C?style=social-the-badge&logo=Atom&logoColor=white)<br />
-<h4>💻OS 🔝</h4><br />
+💻OS 🔝<br />
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=social-the-badge&logo=windows&logoColor=white)<br />
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=fsocialor-the-badge&logo=ubuntu&logoColor=white)<br />
  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=social-the-badge&logo=kali-linux&logoColor=white)<br />
