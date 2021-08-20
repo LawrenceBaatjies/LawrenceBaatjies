@@ -189,12 +189,12 @@ JQuery       █████░░░░░░
 <!-- ![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 </details>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=LawrenceBaatjies&theme=radical" width="80"/>
-<img src="https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&&show_icons=true&count_private=true&theme=radical" width="80"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=LawrenceBaatjies&theme=radical" width="280"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&&show_icons=true&count_private=true&theme=radical" width="280"/>
 <hr />
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
                                                                                             
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)<img height="100" alt="Thanks For Visiting My Profile" width="100%">
+<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)<img height="100" alt="Thanks For Visiting My Profile" width="100%"> -->
  <br/>
 src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="180" ></a>
