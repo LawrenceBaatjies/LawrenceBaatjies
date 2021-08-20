@@ -185,12 +185,12 @@ JQuery       █████░░░░░░
   <!--END_SECTION:activity-->
  <hr />
 
- ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
-![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+ ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+<!-- ![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 
 </details>
-<img src="https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=LawrenceBaatjies&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&&show_icons=true&count_private=true&theme=radical"/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=LawrenceBaatjies&theme=radical"/>
 <hr />
 <br />
  [![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
