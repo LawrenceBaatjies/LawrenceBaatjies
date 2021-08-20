@@ -1,4 +1,4 @@
-<img align="right"src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif"width="90" target="_blank"> 
+<!-- <img align="right"src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif"width="90" target="_blank">  -->
 <!-- <img align="center" src="https://64.media.tumblr.com/11b54f90683ca88b6a3a8cb254d8719c/b75ad4491be1d502-33/s640x960/3dc3b911bde08e1cd98c8d96f636b55517775208.gif" width="70"> -->
 <!-- <img src="https://i.pinimg.com/originals/2b/a2/43/2ba24339050547c296c33a9ca3207548.gif" width="70" target="_blank"> -->
 <hr/> 
@@ -23,7 +23,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✨ Fun fact: I love to Tattoo and play video games.
  - 📝 [Resume](https://drive.google.com/file/d/1ICWjr4tNzWeH5kGb34QkgoSMcEQ844Q2/view?usp=sharing)
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 <br />
 <hr />
   <h3> I'm Open for Business </h3>
