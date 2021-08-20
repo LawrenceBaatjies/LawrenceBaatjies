@@ -35,8 +35,9 @@
 <hr />
  
 <!--  [![Matrix SVG] -->
-<img align="right" width=500px height=650px src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif">
-<!--      (https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
+<img align="right" width=500px height=650px src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif"><br/>
+ <a src='https://gfycat.com/ifr/FinishedVariableCockroach' frameborder='0' scrolling='no' allowfullscreen width='540' height='525'></a>
+
  
  ⏱️Workflow Platforms 🔝<br />
  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=social-the-badge&logo=Jenkins&logoColor=white)&nbsp;<br />
