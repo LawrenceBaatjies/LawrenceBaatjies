@@ -34,9 +34,9 @@
 <br />
 <hr />
  
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<!--  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  -->
  
- align='right'⏱️Workflow Platforms 🔝<br />
+ ⏱️Workflow Platforms 🔝<br />
  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=social-the-badge&logo=Jenkins&logoColor=white)<br />
  ![ProofHub](https://img.shields.io/badge/ProofHub-D24939?style=social-the-badge&logo=ProofHub&logoColor=white)<br />
 🌐Web Browsers 🔝 <br />
@@ -105,7 +105,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 <hr />
 
 <h3> Spotify Music Playing 🎧</h3>
-
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&redirect=true)
 <br/>
 <hr />
