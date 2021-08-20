@@ -37,15 +37,15 @@
 <!--  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  -->
  
  ⏱️Workflow Platforms 🔝<br />
- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=social-the-badge&logo=Jenkins&logoColor=white)<br />
- ![ProofHub](https://img.shields.io/badge/ProofHub-D24939?style=social-the-badge&logo=ProofHub&logoColor=white)<br />
+ ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=social-the-badge&logo=Jenkins&logoColor=white)&nbsp;<br />
+ ![ProofHub](https://img.shields.io/badge/ProofHub-D24939?style=social-the-badge&logo=ProofHub&logoColor=white)&nbsp;<br />
 🌐Web Browsers 🔝 <br />
- ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=social-the-badge&logo=Google-chrome&logoColor=white)<br />
- ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=social-the-badge&logo=Microsoft-edge&logoColor=white)<br />
- ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=social-the-badge&logo=Firefox-Browser&logoColor=white)<br />
- ![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=social-the-badge&logo=Tor-Browser&logoColor=white)<br />
+ ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=social-the-badge&logo=Google-chrome&logoColor=white)&nbsp;<br />
+ ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=social-the-badge&logo=Microsoft-edge&logoColor=white)&nbsp;<br />
+ ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=social-the-badge&logo=Firefox-Browser&logoColor=white)&nbsp;<br />
+ ![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=social-the-badge&logo=Tor-Browser&logoColor=white)&nbsp;<br />
 🚀Frameworks 🔝<br />
- ![React](https://img.shields.io/badge/React-20232A?style=social-the-badge&logo=react&logoColor=61DAFB)<br />
+ ![React](https://img.shields.io/badge/React-20232A?style=social-the-badge&logo=react&logoColor=61DAFB)&nbsp;<br />
  ![/React Router](https://img.shields.io/badge/React_Router-CA4245?style=social-the-badge&logo=react-router&logoColor=white)<br />
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=social-the-badge&logo=bootstrap&logoColor=white)<br />
  ![NPM](https://img.shields.io/badge/npm-CB3837?style=social-the-badge&logo=npm&logoColor=white)<br />
