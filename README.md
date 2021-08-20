@@ -1,8 +1,7 @@
-
 <img align="right" src="https://64.media.tumblr.com/11b54f90683ca88b6a3a8cb254d8719c/b75ad4491be1d502-33/s640x960/3dc3b911bde08e1cd98c8d96f636b55517775208.gif" height="100px" width="880" target="_blank">
-<!-- <img src="https://i.pinimg.com/originals/2b/a2/43/2ba24339050547c296c33a9ca3207548.gif" width="70" target="_blank"><h3>⚛️ Hi there, I'm Lawrence ⚛️</h3> <img src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" width="90" target="_blank"> -->
+<img src="https://giphy.com/embed/2tSkmkA100dZLVhc2F" width="480" height="225" ><p><a href="https://giphy.com/gifs/2tSkmkA100dZLVhc2F">
 <hr/> 
- 
+ <!-- <img src="https://i.pinimg.com/originals/2b/a2/43/2ba24339050547c296c33a9ca3207548.gif" width="70" target="_blank"><h3>⚛️ Hi there, I'm Lawrence ⚛️</h3> <img src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" width="90" target="_blank"> -->
 <img align="right" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" width="280" target="_blank">
                                                                                                                               
 <!--  https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
@@ -40,7 +39,7 @@
  
 <!--  [![Matrix SVG] -->
 <img align="right" width=500px height=650px src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif"><br/>
- <img align="right" src='https://thumbs.gfycat.com/FinishedVariableCockroach-small.gif' allowfullscreen width='500' height='525'>
+ <img align="right" src='https://i.pinimg.com/originals/13/3b/22/133b22e750c8111d56b0422d2146a1ce.gif' allowfullscreen width='500' height='525'>
 
  
  ⏱️Workflow Platforms 🔝<br />
