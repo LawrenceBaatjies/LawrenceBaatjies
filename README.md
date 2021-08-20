@@ -36,7 +36,7 @@
  
 <!--  [![Matrix SVG] -->
 <img align="right" width=500px height=650px src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif"><br/>
- <img align="right" src='https://gfycat.com/ifr/FinishedVariableCockroach' frameborder='0' scrolling='no' allowfullscreen width='540' height='525'>
+ <img align="right" src='https://thumbs.gfycat.com/FinishedVariableCockroach-small.gif' allowfullscreen width='500' height='525'>
 
  
  ⏱️Workflow Platforms 🔝<br />
