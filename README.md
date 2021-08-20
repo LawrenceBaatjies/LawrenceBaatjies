@@ -1,5 +1,7 @@
-<img align="right"src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif"width="90" target="_blank"> <img align="center" src="https://64.media.tumblr.com/11b54f90683ca88b6a3a8cb254d8719c/b75ad4491be1d502-33/s640x960/3dc3b911bde08e1cd98c8d96f636b55517775208.gif" width="70"> <img src="https://i.pinimg.com/originals/2b/a2/43/2ba24339050547c296c33a9ca3207548.gif" width="70" target="_blank">
- <hr/>
+<img align="right"src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif"width="90" target="_blank"> 
+<img align="center" src="https://64.media.tumblr.com/11b54f90683ca88b6a3a8cb254d8719c/b75ad4491be1d502-33/s640x960/3dc3b911bde08e1cd98c8d96f636b55517775208.gif" width="70">
+<img src="https://i.pinimg.com/originals/2b/a2/43/2ba24339050547c296c33a9ca3207548.gif" width="70" target="_blank">
+<hr/>
  
 <img align='right' src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif"width="280" target="_blank">
  <h2> Hi there, I'm Lawrence </h2> 
@@ -9,7 +11,8 @@
 ![Linkedin:Follow](https://img.shields.io/badge/-LawrenceBaatjies-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
 ![Twitter:Follow](https://img.shields.io/twitter/follow/Jackwebber?style=social)
  
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***A little more about me... ***<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">  
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***A little more about me... ***
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">  
  <h3>I'M A Husband, A Father, And A Student Aspiring To Become A Full Stack Web Developer!</h3>
 <br /> 
 
