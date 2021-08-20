@@ -19,7 +19,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Update GitHub Profile README
-        uses: LawrenceBaatjies/github-update-readme@main
+        uses: LawrenceBaatjies/github-update-readme@master
         env:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
