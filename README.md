@@ -2,7 +2,7 @@
  </h3>
 <hr/> 
  
-<img align='right' src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif"width="280" target="_blank">
+<img align="right" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif"width="280" target="_blank">
 
 <!--  https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
 ![Status](https://img.shields.io/badge/Status-up-lightgreen) ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-blue)
