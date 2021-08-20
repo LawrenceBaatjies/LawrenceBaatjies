@@ -35,7 +35,7 @@
 <hr />
  
 <!--  [![Matrix SVG] -->
-<img align="center" width=200px height=200px src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
+<img align="right" width=400px height=350px src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
 <!--      (https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
  
  ⏱️Workflow Platforms 🔝<br />
