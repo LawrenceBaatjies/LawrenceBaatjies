@@ -3,7 +3,7 @@
 <!-- align="center" -->
 <hr/> 
  <!-- <img src="https://i.pinimg.com/originals/2b/a2/43/2ba24339050547c296c33a9ca3207548.gif" width="70" target="_blank"><h3>⚛️ Hi there, I'm Lawrence ⚛️</h3> <img src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" width="90" target="_blank"> -->
-<img align="right" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" width="280"  style="border-radius: 50px 50px 50px 50px"; target="_blank">
+<img align="right" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" width="280"  style="border-radius: 50px 50px 50px 50px" target="_blank">
                                                                                                                               
 <!--  https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
 ![Status](https://img.shields.io/badge/Status-up-lightgreen) ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-blue)
@@ -40,7 +40,7 @@
  
 <!--  [![Matrix SVG] -->
 <img align="right" width=500px height=650px src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif"><br/>
- <img align="right" src='https://i.pinimg.com/originals/13/3b/22/133b22e750c8111d56b0422d2146a1ce.gif' allowfullscreen width='500' height='525'>
+ <img align="right" src='https://i.pinimg.com/originals/13/3b/22/133b22e750c8111d56b0422d2146a1ce.gif' style="border-radius: 50px 50px 50px 50px" width='500' height='500'>
 
  
  ⏱️Workflow Platforms 🔝<br />
@@ -110,10 +110,10 @@
 <!--  Build your own URL:
 https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white -->
 <hr /> 
-                                   <img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+                                   <img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 <h3> Spotify Music Playing 🎧</h3> 
 
-![Spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem)
+![Spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem )
 <hr />
 
 📞Connect with me on:<br />
