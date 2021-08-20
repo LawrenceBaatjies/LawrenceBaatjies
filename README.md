@@ -35,7 +35,7 @@
 <hr />
  
 <!--  [![Matrix SVG] -->
-<img align="right" width=600px height=850px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5YTyjRcQCZQCW5ONb9Mv9_mqCYTnL9LvFQ&usqp=CAU">
+<img align="right" width=800px height=850px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5YTyjRcQCZQCW5ONb9Mv9_mqCYTnL9LvFQ&usqp=CAU">
 <!--      (https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
  
  ⏱️Workflow Platforms 🔝<br />
