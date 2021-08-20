@@ -191,8 +191,8 @@ JQuery       █████░░░░░░
 
 </details>
 
-<img src="https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&&show_icons=true&count_private=true&theme=radical" width="80%"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=LawrenceBaatjies&theme=radical" width="80%"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&&show_icons=true&count_private=true&theme=radical" width="80"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=LawrenceBaatjies&theme=radical" width="80"/>|
 
 <hr />
 
