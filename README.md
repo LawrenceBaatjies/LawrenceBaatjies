@@ -2,3 +2,9 @@
   
 <hr/>
 <img align='right' src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif"width="280" target="_blank">
+  
+  <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
+![Status](https://img.shields.io/badge/Status-up-lightgreen) ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-blue)
+[![GitHub:Follow](https://img.shields.io/github/followers/Lawrence?label=follow&style=social)](https://github.com/LawrenceBaatjies)
+![Linkedin:Follow](https://img.shields.io/badge/-LawrenceBaatjies-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
+ ![Twitter:Follow](https://img.shields.io/twitter/follow/Jackwebber?style=social)
