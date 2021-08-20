@@ -81,7 +81,7 @@
  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=social-the-badge&logo=debian&logoColor=white)<br />
  ![Android](https://img.shields.io/badge/Android-3DDC84?style=social-the-badge&logo=android&logoColor=white)<br />
 
-
+<iframe src="https://open.spotify.com/embed/user/ajlcefi3wtwgg3fb5yxgkypn7/playlist/2FXahyzDPUrlPnk1omEuvN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
  <br />
  <hr />
@@ -105,6 +105,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 <h3> Spotify Music Playing 🎧</h3> <img align="right" alt="GIF" height="110px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&redirect=true)
-
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem)](https://open.spotify.com/user/jackwebber)
 
 
