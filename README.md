@@ -11,4 +11,11 @@
   
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...  
  <h3>I'M A Husband, A Father, And A Student Aspiring To Become A Full Stack Web Developer!</h3>
-<br />
+  <br />
+  
+- 🔭 I just Finished my Node.js course.
+- 🌱 I’m currently learning {SQL-DataBase-Week-3}.
+- 👥 I’m looking to collaborate with other Student.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ✨ Fun fact: I love to Tattoo and play video games.
+ - 📝 [Resume](https://drive.google.com/file/d/1ICWjr4tNzWeH5kGb34QkgoSMcEQ844Q2/view?usp=sharing)
