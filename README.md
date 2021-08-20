@@ -101,11 +101,9 @@
 </p> 
 <!--  Build your own URL:
 https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white -->
-
 <hr />
 
-<h3> Spotify Music Playing 🎧</h3>
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<h3> Spotify Music Playing 🎧</h3> <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&redirect=true)
 <br/>
 <hr />
