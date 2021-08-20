@@ -135,3 +135,50 @@ Portfolio Website Still-Pending...<br />
 <br />
 <details>
 
+<summary>:zap: Recent GitHub Activity</summary>
+
+  <!--START_SECTION:activity-->
+1. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+2. 🎉 Merged PR [#8](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/8) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+4. 🗣 Commented on [#6](https://github.com/codeSTACKr/free-developer-resources/issues/6) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+5. 🎉 Merged PR [#6](https://github.com/codeSTACKr/free-developer-resources/pull/6) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 235 Contributions in the Year 2021 
+ > 
+> 📜 32 Public Repositories
+ > 
+> 🔑 1 Private Repositories 
+ 
+**Programming Language Proficiency**
+```text
+HTML         ███████████████████████░░░░░░  
+CSS          █████████████████████░░░░   
+JavaScript   █████████████████░░░░░ 
+React        ████████░░░░░░░░░░░░░░░░░ 
+JQuery       █████░░░░░░ 
+```
+  <!--END_SECTION:activity-->
+ <hr />
+
+ ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+</details>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ <br />
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/> <img height="100" alt="Thanks For Visiting My Profile👌" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
