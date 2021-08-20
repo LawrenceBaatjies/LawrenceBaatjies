@@ -97,7 +97,7 @@
  }; 
 }
 ```
-<a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
+<a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="180" ></a>
  <a href="https://www.buymeacoffee.com/lawrence.fred"><img  align='right' src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lawrence.fred&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"></a>
 </p> 
 <!--  Build your own URL:
