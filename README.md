@@ -35,7 +35,7 @@
 <hr />
  
 <!--  [![Matrix SVG] -->
-<img align="right" width=800px height=850px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5YTyjRcQCZQCW5ONb9Mv9_mqCYTnL9LvFQ&usqp=CAU">
+<img align="right" width=500px height=550px src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif">
 <!--      (https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
  
  ⏱️Workflow Platforms 🔝<br />
