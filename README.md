@@ -6,5 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-up-lightgreen) ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-blue)
 [![GitHub:Follow](https://img.shields.io/github/followers/Lawrence?label=follow&style=social)](https://github.com/LawrenceBaatjies)
 ![Linkedin:Follow](https://img.shields.io/badge/-LawrenceBaatjies-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
- ![Twitter:Follow](https://img.shields.io/twitter/follow/Jackwebber?style=social)
-  
+![Twitter:Follow](https://img.shields.io/twitter/follow/Jackwebber?style=social)
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...  
+ <h3>I'M A Husband, A Father, And A Student Aspiring To Become A Full Stack Web Developer!</h3>
+<br /> 
