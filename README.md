@@ -87,15 +87,15 @@
  
  ```javascript
  function Answer(){
- If(Answer = True) { <br/>
-     return ( <br/>
-       Buy_Me_A_Coffee_then-lol☕) <br/>
-          👇(Click Button)👇
-   )<br />
+ If(Answer = True) {
+     return ( 
+       Buy_Me_A_Coffee_then-lol☕);
+       👇(Click Button)👇
+    )
  }; 
-}<br />
+}
 ```
-<a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="130" ></a>
+<a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
 </p> 
 <!--  Build your own URL:
 https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white -->
