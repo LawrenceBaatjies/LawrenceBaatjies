@@ -106,7 +106,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 <h3> Spotify Music Playing 🎧</h3> <img align="right" alt="GIF" height="110px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 [![Spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem)
 <!-- ](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&redirect=true) -->
-
+<hr />
 📞Connect Me By:<br />
 Portfolio Website Still-Pending...<br />
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=social-the-badge&logo=slack&logoColor=white)
@@ -115,7 +115,7 @@ Portfolio Website Still-Pending...<br />
 ![Youtube](https://img.shields.io/badge/Youtube-E4405F?style=social-the-badge&logo=youtube&logoColor=white)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=social-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrence-baatjies-a13904192)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=social-the-badge&logo=stack-overflow&logoColor=white)
-<hr />
+
 <br/>
  <h3>Languages And Tools I Play With</h3>
 
