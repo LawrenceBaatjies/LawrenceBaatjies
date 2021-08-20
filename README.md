@@ -11,3 +11,25 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***A little more about me... ***<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">  
  <h3>I'M A Husband, A Father, And A Student Aspiring To Become A Full Stack Web Developer!</h3>
 <br /> 
+
+ 
+ - 🔭 I just Finished my Node.js course.
+- 🌱 I’m currently learning {SQL-DataBase-Week-3}.
+- 👥 I’m looking to collaborate with other Student.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ✨ Fun fact: I love to Tattoo and play video games.
+ - 📝 [Resume](https://drive.google.com/file/d/1ICWjr4tNzWeH5kGb34QkgoSMcEQ844Q2/view?usp=sharing)
+
+<br />
+<hr />
+  <h3> I'm Open for Business </h3>
+
+ - 💼 Any Freelance Work? Reach Me @ ![Gmail](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
+
+- 💬 Ask me about anything, I am happy to help.
+- 💰 Want to Donate and help A fellow Developer? 
+ <br />
+
+ [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=22VPEEV2PZDD8)
+
+<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
