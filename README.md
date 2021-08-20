@@ -164,7 +164,7 @@ Portfolio Website Still-Pending...<br />
 
 
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -177,9 +177,9 @@ Portfolio Website Still-Pending...<br />
 **Programming Language Proficiency**
 ```text
 HTML         ███████████████████████░░░░░░  
-CSS          █████████████████████░░░░   
+CSS          ████████████████████░░░   
 JavaScript   █████████████████░░░░░ 
-React        ████████░░░░░░░░░░░░░░░░░ 
+React        ███████████░░░░░░░░░░░░░░░ 
 JQuery       █████░░░░░░ 
 ```
   <!--END_SECTION:activity-->
@@ -190,8 +190,10 @@ JQuery       █████░░░░░░
 
 
 </details>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=LawrenceBaatjies&theme=radical"/>
+<hr />
+<br />
+ [![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  <br />
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/> <img height="100" alt="Thanks For Visiting My Profile👌" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="180" ></a>
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/> <img height="100" alt="Thanks For Visiting My Profile" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="180" ></a>
