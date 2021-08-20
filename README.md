@@ -2,7 +2,7 @@
  <hr/>
 <img align='right' src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif"width="280" target="_blank">
  
- <!-- https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
+<!--  https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif -->
 ![Status](https://img.shields.io/badge/Status-up-lightgreen) ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-blue)
 [![GitHub:Follow](https://img.shields.io/github/followers/Lawrence?label=follow&style=social)](https://github.com/LawrenceBaatjies)
 ![Linkedin:Follow](https://img.shields.io/badge/-LawrenceBaatjies-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
@@ -34,7 +34,9 @@
 <br />
 <hr />
  
-<!--  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  -->
+<!--  [![Matrix SVG] -->
+<img align="center" width=200px height=200px src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
+<!--      (https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
  
  ⏱️Workflow Platforms 🔝<br />
  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=social-the-badge&logo=Jenkins&logoColor=white)&nbsp;<br />
@@ -109,7 +111,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 ![Spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem)
 <hr />
 
-📞Connect Me By:<br />
+📞Connect with me on:<br />
 Portfolio Website Still-Pending...<br />
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=social-the-badge&logo=slack&logoColor=white)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=social-the-badge&logo=gmail&logoColor=white=mailto:lawrencebaatjies47@gmail.com)
