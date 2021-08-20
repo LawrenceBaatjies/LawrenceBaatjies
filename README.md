@@ -102,10 +102,10 @@
 <!--  Build your own URL:
 https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white -->
 <hr />
-<img align="top-right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-<h2> Spotify Music Playing 🎧</h2> 
+
+<h3> Spotify Music Playing 🎧</h3> <img align="top-right" alt="GIF" height="110px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&redirect=true)
-<br/>
-<hr />
+
+
 
 
