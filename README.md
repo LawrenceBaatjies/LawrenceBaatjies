@@ -193,7 +193,7 @@ JQuery       █████░░░░░░
 <img src="https://github-readme-stats.vercel.app/api?username=LawrenceBaatjies&&show_icons=true&count_private=true&theme=radical" width="480"/>
 <hr />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)]
                                                                                             
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)<img height="100" alt="Thanks For Visiting My Profile" width="100%"> -->
  <br/>
