@@ -97,8 +97,8 @@
  }; 
 }
 ```
-<a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="180" ></a>
- <a href="https://www.buymeacoffee.com/lawrence.fred"><img  align='right' src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lawrence.fred&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"></a>
+
+ <a href="https://www.buymeacoffee.com/lawrence.fred"><img  align='center' src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lawrence.fred&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"></a>
 </p> 
 <!--  Build your own URL:
 https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white -->
@@ -187,4 +187,4 @@ JQuery       █████░░░░░░
 [![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  <br />
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/> <img height="100" alt="Thanks For Visiting My Profile👌" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br/> <img height="100" alt="Thanks For Visiting My Profile👌" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="180" ></a>
