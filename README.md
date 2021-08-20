@@ -9,7 +9,7 @@
 ![Linkedin:Follow](https://img.shields.io/badge/-LawrenceBaatjies-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lawrence-baatjies-a13904192/)
  ![Twitter:Follow](https://img.shields.io/twitter/follow/Jackwebber?style=social)
 <!--   <br/> -->
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***A little more about me ....***<br/> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***A little more about me ....*** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
   
   <h3>I'M A Husband, A Father, And A Student Aspiring To Become A Full Stack Web Developer!</h3>
   <br />
