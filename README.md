@@ -196,8 +196,8 @@ MySQL        ██████████████░░░░░░
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
                                                                                             
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br />
- <img  src="https://visitor-badge.glitch.me/badge?page_id=page.id" height="100" alt="Thanks For Visiting My Profile" width="100%">
+<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br /> -->
+ <img  src="https://visitor-badge.glitch.me/badge?page_id=page.id" height="50" alt="Thanks For Visiting My Profile" width="50%">
  
  <br/>
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /><a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> 
