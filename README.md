@@ -170,7 +170,7 @@ Portfolio Website Still-Pending...<br />
 
 > 🏆 235 Contributions in the Year 2021 
  > 
-> 📜 32 Public Repositories
+> 📜 51 Public Repositories
  > 
 > 🔑 1 Private Repositories 
  
