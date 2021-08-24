@@ -42,11 +42,12 @@
 <img align="right" width=500px height=650px src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif"><br/>
  <img align="right" src='https://i.pinimg.com/originals/13/3b/22/133b22e750c8111d56b0422d2146a1ce.gif' style="border-radius: 50px 50px 50px 50px" width='500' height='500'>
 
-<!--  <h3>Knowledge of:</h3> -->
- ⏱️Workflow Platforms 🔝<br />
+ <h3>Knowledge of:</h3>
+ <br />
+>  ⏱️Workflow Platforms 🔝<br />
  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=social-the-badge&logo=Jenkins&logoColor=white)&nbsp;<br />
  ![ProofHub](https://img.shields.io/badge/ProofHub-D24939?style=social-the-badge&logo=ProofHub&logoColor=white)&nbsp;<br />
-🌐Web Browsers 🔝 <br />
+> 🌐Web Browsers 🔝 <br />
  ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=social-the-badge&logo=Google-chrome&logoColor=white)&nbsp;<br />
  ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=social-the-badge&logo=Microsoft-edge&logoColor=white)&nbsp;<br />
  ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=social-the-badge&logo=Firefox-Browser&logoColor=white)&nbsp;<br />
