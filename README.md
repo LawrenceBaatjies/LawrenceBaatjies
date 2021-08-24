@@ -110,7 +110,7 @@
 <!--  Build your own URL:
 https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white -->
 <hr /> 
-                                   <img align="center" alt="GIF" height="140px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+                                   <img align="right" alt="GIF" width="140px"height="140px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 <h3> Spotify Music Playing 🎧</h3> 
 
 ![Spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem )
@@ -118,7 +118,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 📞Connect with me on:<br />
 Portfolio Website Still-Pending...<br />
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=social-the-badge&logo=slack&logoColor=white)](https://slack.com/app_redirect?channel=${@Lawrence['T2H71EFLK']})
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=social-the-badge&logo=slack&logoColor=white)](https://slack.com/app_redirect?channel=${@Lawrence=T2H71EFLK)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=social-the-badge&logo=gmail&logoColor=white=mailto:lawrencebaatjies47@gmail.com)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=social-the-badge&logo=twitter&logoColor=white) 
 ![Youtube](https://img.shields.io/badge/Youtube-E4405F?style=social-the-badge&logo=youtube&logoColor=white)
