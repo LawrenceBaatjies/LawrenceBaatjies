@@ -197,7 +197,7 @@ MySQL        ██████████████░░░░░░
 [![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
                                                                                             
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br /> -->
- <img  src="https://visitor-badge.glitch.me/badge?page_id=page.id"  alt="Thanks For Visiting My Profile" width="40%">
+ <img  src="https://visitor-badge.glitch.me/badge?page_id=page.id"  alt="Thanks For Visiting My Profile" width="20%">
 <!--  height="30" -->
  
  <br/>
