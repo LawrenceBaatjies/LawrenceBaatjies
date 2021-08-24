@@ -110,7 +110,7 @@
 <!--  Build your own URL:
 https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white -->
 <hr /> 
-                                   <img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+                                   <img align="center" alt="GIF" height="140px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 <h3> Spotify Music Playing 🎧</h3> 
 
 ![Spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajlcefi3wtwgg3fb5yxgkypn7&cover_image=true&theme=novatorem )
@@ -123,7 +123,7 @@ Portfolio Website Still-Pending...<br />
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=social-the-badge&logo=twitter&logoColor=white) 
 ![Youtube](https://img.shields.io/badge/Youtube-E4405F?style=social-the-badge&logo=youtube&logoColor=white)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=social-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrence-baatjies-a13904192)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=social-the-badge&logo=stack-overflow&logoColor=white)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=social-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15492726/lawrence-47)
 
 <br/>
  <h3>Languages And Tools I Play With</h3>
