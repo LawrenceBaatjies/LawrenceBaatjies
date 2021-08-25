@@ -28,8 +28,8 @@
 <hr />
  <img align="left" src="https://media.giphy.com/media/Yn4oqa7yl2suqXweok/giphy.gif?cid=790b7611q1vw3oj4r8c9se0yjnfvv4oteor38jw0e73voi4w&rid=giphy.gif&ct=s" width="160"/>
   <br/>
-  <h3> I'm Open for Business </h3>
- <br/>
+  <h3> I'm Open for Business </h3><br/>
+ 
 - 💼 Any Freelance Work? Reach Me @ ![Gmail](https://img.shields.io/badge/-lawrencebaatjies47@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:lawrencebaatjies47@gmail.com)
 
 - 💬 Ask me about anything, I am happy to help.
