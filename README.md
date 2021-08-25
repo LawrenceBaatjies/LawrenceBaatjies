@@ -146,6 +146,7 @@ Portfolio Website Still-Pending...<br />
 <br/>
 
 <br />
+<hr />
 <details>
 
 <summary>:zap: Recent GitHub Activity</summary>
