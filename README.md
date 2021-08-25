@@ -1,5 +1,5 @@
-<img src="https://media.giphy.com/media/UadxqjtFahk61kSkio/giphy.gif?cid=790b7611845e27b04c694e804a8b90b45c035067a394d122&rid=giphy.gif&ct=g" style="border-radius:10%" height="260px" width="1000" target="_blank">
-<br />
+<img src="https://media.giphy.com/media/UadxqjtFahk61kSkio/giphy.gif?cid=790b7611845e27b04c694e804a8b90b45c035067a394d122&rid=giphy.gif&ct=g" style="border-radius:10%" height="280px" width="1000" target="_blank">
+<!-- <br /> -->
 <!-- align="center" -->
 <hr/> 
  <!-- <img src="https://i.pinimg.com/originals/2b/a2/43/2ba24339050547c296c33a9ca3207548.gif" width="70" target="_blank"><h3>⚛️ Hi there, I'm Lawrence ⚛️</h3> <img src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" width="90" target="_blank"> -->
