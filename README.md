@@ -23,9 +23,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✨ Fun fact: I love to Tattoo and play video games.
  - 📝 [Resume](https://drive.google.com/file/d/1ICWjr4tNzWeH5kGb34QkgoSMcEQ844Q2/view?usp=sharing) 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
- <br />
- <hr /> <br />
+    <br /><img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ 
+ <hr /> 
  <img align="left" src="https://media.giphy.com/media/Yn4oqa7yl2suqXweok/giphy.gif?cid=790b7611q1vw3oj4r8c9se0yjnfvv4oteor38jw0e73voi4w&rid=giphy.gif&ct=s" width="160"/>
   <br/>
   <h3> I'm Open for Business </h3><br/>
