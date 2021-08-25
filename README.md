@@ -38,7 +38,7 @@
 <br />
 <hr />
  
-<!--  <h3>Knowledge of</h3> -->
+ <h3>Skill & MY Knowledge Of: </h3>
 <img align="right" width=500px height=650px src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif"><br/>
  <img align="right" src='https://i.pinimg.com/originals/13/3b/22/133b22e750c8111d56b0422d2146a1ce.gif' style="border-radius: 50px 50px 50px 50px" width='500' height='500'>
 
