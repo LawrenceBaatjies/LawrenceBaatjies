@@ -203,9 +203,9 @@ MySQL        ██████████████░░░░░░
                                                                                            
 
 <img src="https://komarev.com/ghpvc/?username=LawrenceBaatjies&color=brightgreen" width="130px"> 
-<img src="https://visitor-badge.glitch.me/badge?page_id=LawrenceBaatjies.LawrenceBaatjies" width="100px">
-
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=LawrenceBaatjies.LawrenceBaatjies" width="100px">
 <br/>
+
 
 
  <br/>
