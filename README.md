@@ -201,11 +201,11 @@ MySQL        ██████████████░░░░░░
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
                                                                                            
-<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br /> -->
- <img  src="https://visitor-badge.glitch.me/badge?page_id=page.id=LawrenceBaatjies.LawrenceBaatjies"  alt="Thanks For Visiting My Profile" width="20%">
-<!--  height="30" -->
+
+<img src="https://komarev.com/ghpvc/?username=LawrenceBaatjies&color=brightgreen" width="20%"> <img src="https://visitor-badge.glitch.me/badge?page_id=LawrenceBaatjies.LawrenceBaatjies" width="20%">
+
 <br/>
-<img src="https://komarev.com/ghpvc/?username=LawrenceBaatjies&color=brightgreen" width="10%"><img src="https://visitor-badge.glitch.me/badge?page_id=LawrenceBaatjies.LawrenceBaatjies" width="10%">
+
 
  <br/>
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /><a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> 
