@@ -202,7 +202,7 @@ MySQL        ██████████████░░░░░░
  [![trophy](https://github-profile-trophy.vercel.app/?username=LawrenceBaatjies&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
                                                                                            
 
-<img src="https://komarev.com/ghpvc/?username=LawrenceBaatjies&color=brightgreen" width="17px"> <img src="https://visitor-badge.glitch.me/badge?page_id=LawrenceBaatjies.LawrenceBaatjies" width="21px">
+<img src="https://komarev.com/ghpvc/?username=LawrenceBaatjies&color=brightgreen" width="60px"> <img src="https://visitor-badge.glitch.me/badge?page_id=LawrenceBaatjies.LawrenceBaatjies" width="50px">
 
 <br/>
 
