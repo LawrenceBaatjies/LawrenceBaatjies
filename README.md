@@ -205,8 +205,8 @@ MySQL        ██████████████░░░░░░
  <img  src="https://visitor-badge.glitch.me/badge?page_id=page.id"  alt="Thanks For Visiting My Profile" width="20%">
 <!--  height="30" -->
 <br/>
-![profile views ](https://komarev.com/ghpvc/?username=LawrenceBaatjies&color=brightgreen)
-![Vistor badges ](https://visitor-badge.glitch.me/badge?page_id=LawrenceBaatjies.LawrenceBaatjies)
+<img src="https://komarev.com/ghpvc/?username=LawrenceBaatjies&color=brightgreen" width="10%">
+<img src="https://visitor-badge.glitch.me/badge?page_id=LawrenceBaatjies.LawrenceBaatjies" width="10%">
  <br/>
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /><a href="https://www.buymeacoffee.com/lawrence.fred" target="_blank"> 
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="180" ></a>
