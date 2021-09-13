@@ -12,7 +12,7 @@
 ![Twitter:Follow](https://img.shields.io/twitter/follow/Jackwebber?style=social)
  <a href="https://github.com/LawrenceBaatjies/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a><br/>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***A little more about me... ***<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">  
- 
+ <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=LawrenceBaatjies.LawrenceBaatjies" width="100px">
  <h4>I'm A Husband, A Father, And A Student Aspiring To Become A....<br/>Full Stack Web Developer & Cyber Security Master!</h4>
 <br /> 
 
@@ -205,7 +205,7 @@ MySQL        ██████████████░░░░░░
                                                                                            
 
 <img align="right"  src="https://komarev.com/ghpvc/?username=LawrenceBaatjies&color=brightgreen" width="130px"> 
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=LawrenceBaatjies.LawrenceBaatjies" width="100px">
+
 
 
 
