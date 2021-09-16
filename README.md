@@ -175,11 +175,12 @@ Portfolio Website Still-Pending...<br />
 
 **🐱 My Github Data** 
 
-> 🏆 462 Contributions in the Year 2021 
+> 🏆 671 Contributions in the Year 2021 
  > 
-> 📜 50 Public Repositories
+> 📜 60 Public Repositories
  > 
 > 🔑 1 Private Repositories 
+ > 🔑 1 Private Project 
  
 **Programming Language Proficiency**
 ```text
