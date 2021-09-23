@@ -86,9 +86,9 @@
  ![Atom](https://img.shields.io/badge/Atom-66595C?style=social-the-badge&logo=Atom&logoColor=white)<br />
 💻OS 🔝<br />
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=social-the-badge&logo=windows&logoColor=white)<br />
- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=fsocialor-the-badge&logo=ubuntu&logoColor=white)<br />
+ ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=fsocialor-the-badge&logo=ubuntu&logoColor=white)
  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=social-the-badge&logo=kali-linux&logoColor=white)<br />
- ![Debian](https://img.shields.io/badge/Debian-A81D33?style=social-the-badge&logo=debian&logoColor=white)<br />
+ ![Debian](https://img.shields.io/badge/Debian-A81D33?style=social-the-badge&logo=debian&logoColor=white)
  ![Android](https://img.shields.io/badge/Android-3DDC84?style=social-the-badge&logo=android&logoColor=white)<br />
 
 <!-- <iframe src="https://open.spotify.com/embed/user/ajlcefi3wtwgg3fb5yxgkypn7/playlist/2FXahyzDPUrlPnk1omEuvN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> -->
