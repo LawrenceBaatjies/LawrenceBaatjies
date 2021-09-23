@@ -17,7 +17,7 @@
 <br /> 
 
  
- - 🔭 I just Finished MySQL-DataBase- course.
+ - 🔭 I just Finished PostgresSql-DataBase-Course.
 - 🌱 I’m currently working on my [Final Project](http://LawrenceBaatjies/Advancing-Engaged-Citizenship)
 - 👥 I’m looking to collaborate with other Student.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
