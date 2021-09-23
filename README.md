@@ -17,9 +17,9 @@
 <br /> 
 
  
- - 🔭 I just Finished PostgresSql-DataBase-Course.
+ - 🔭 I just Finished my Postgres-SQL Course.
 - 🌱 I’m currently working on my [Final Project](http://LawrenceBaatjies/Advancing-Engaged-Citizenship)
-- 👥 I’m looking to collaborate with other Student.
+- 👥 I’m looking to collaborate with other Developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✨ Fun fact: I love to Tattoo and play video games.
  - 📝 [Resume](https://drive.google.com/file/d/1ICWjr4tNzWeH5kGb34QkgoSMcEQ844Q2/view?usp=sharing) 
@@ -34,7 +34,7 @@
 
 - 💬 Ask me about anything, I am happy to help.
 - 💰 Want to Donate and help A fellow Developer? <br />
- 
+  👇(Click Button)👇
   [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=22VPEEV2PZDD8)
  <br />
  <br />
