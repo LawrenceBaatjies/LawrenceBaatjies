@@ -16,7 +16,7 @@
  <h4>I'm A Husband, A Father,<br/>Full Stack Web Developer & Cyber Security Enthusiast!</h4>
 <br /> 
 
- - 🔭 I just Finished my 18 Month Long Full Stack Wed Dev Course .
+ - 🔭 I just Finished my 18 Month Long Full Stack Web Dev Course .
 - 🌱 I’m currently working on [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp/getting-started)
 - 👥 I’m looking to collaborate with other Developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
