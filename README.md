@@ -16,15 +16,13 @@
  <h4>I'm A Husband, A Father,<br/>Full Stack Web Developer & Cyber Security Enthusiast!</h4>
 <br /> 
 
- 
  - 🔭 I just Finished my 18 Month Long Full Stack Wed Dev Course .
 - 🌱 I’m currently working on [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp/getting-started)
 - 👥 I’m looking to collaborate with other Developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✨ Fun fact: I love to Tattoo and play video games.
  - 📝 [Resume](https://drive.google.com/file/d/1ICWjr4tNzWeH5kGb34QkgoSMcEQ844Q2/view?usp=sharing) 📋[Certificate](https://drive.google.com/file/d/1r_BGQ3JXl8n66v2qaKlq9Dig-vpqU3t7/view?usp=sharing)
-  
-    <br /><img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  <br /><img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  
  <hr /> 
  <img align="left" src="https://media.giphy.com/media/Yn4oqa7yl2suqXweok/giphy.gif?cid=790b7611q1vw3oj4r8c9se0yjnfvv4oteor38jw0e73voi4w&rid=giphy.gif&ct=s" width="160"/>
