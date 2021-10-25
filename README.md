@@ -22,8 +22,8 @@
 - 👥 I’m looking to collaborate with other Developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✨ Fun fact: I love to Tattoo and play video games.
- - 📝 [Resume](https://drive.google.com/file/d/1ICWjr4tNzWeH5kGb34QkgoSMcEQ844Q2/view?usp=sharing) 
- - 📋 [Certificate](https://drive.google.com/file/d/1rxhvWJx20xvvuXfN5lNdxCU6dughm0dL/view?usp=sharing)
+ - 📝 [Resume](https://drive.google.com/file/d/1ICWjr4tNzWeH5kGb34QkgoSMcEQ844Q2/view?usp=sharing) 📋[Certificate](https://drive.google.com/file/d/1r_BGQ3JXl8n66v2qaKlq9Dig-vpqU3t7/view?usp=sharing)
+  
     <br /><img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  
  <hr /> 
