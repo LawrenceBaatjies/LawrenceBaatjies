@@ -19,7 +19,7 @@
  - 🔭 I just Finished my 18 Month Long Full Stack Web Dev Course .
 - 🌱 I’m currently working on [CRM-Database for Debt Review Companies ](https://react-app-demo.harryho.org/dashboard)
 - 👥 I’m looking to collaborate with other Developers.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ✨ Fun fact: I love to Tattoo and play video games.
  - 📝 [Resume](https://drive.google.com/file/d/1ICWjr4tNzWeH5kGb34QkgoSMcEQ844Q2/view?usp=sharing) 📋[Certificate](https://drive.google.com/file/d/1r_BGQ3JXl8n66v2qaKlq9Dig-vpqU3t7/view?usp=sharing)
   <br /><img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -176,9 +176,9 @@ Portfolio Website Still-Pending...<br />
 
 > 🏆 671 Contributions in the Year 2021 
  > 
-> 📜 60 Public Repositories
+> 📜 69 Public Repositories
  > 
-> 🔑 1 Private Repositories 
+> 🔑 2 Private Repositories 
  > 🔑 1 Private Project 
  
 **Programming Language Proficiency**
