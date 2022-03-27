@@ -122,7 +122,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 <hr />
 
 📞Connect with me on:<br />
-Portfolio Website Still-Pending...<br />
+ <a href="https://lawrencebaatjies.github.io/LawrenceBaatjies47.github.io/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a><br />
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=social-the-badge&logo=slack&logoColor=white)](https://slack.com/app_redirect?channel=${@Lawrence=T2H71EFLK)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=social-the-badge&logo=gmail&logoColor=white=mailto:lawrencebaatjies47@gmail.com)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=social-the-badge&logo=twitter&logoColor=white) 
